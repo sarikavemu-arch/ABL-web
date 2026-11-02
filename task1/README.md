@@ -1,7 +1,10 @@
 # ABL-web
  AIM :
+ 
 To create a Movie Review and Rating Website using HTML, CSS and JavaScript. The website displays movie posters, genres, release dates, cast details, synopsis, critic reviews and ratings.
+
  PROCEDURE :
+ 
 1. Open Visual Studio Code.
 2. Create a new folder named Movie Website.
 3. Create a file named index.html.
@@ -9,6 +12,7 @@ To create a Movie Review and Rating Website using HTML, CSS and JavaScript. The 
 5. Save the file.
 6. Open the file using Google Chrome.
 7. The Movie Review Website will be displayed.
+   
  PROGRAM :
 
 <!DOCTYPE html>
@@ -185,4 +189,5 @@ function searchMovie() {
 </html>
 
  RESULT :
+ 
 Thus, the Movie Review and Rating Website was successfully designed using HTML, CSS and JavaScript. It displays movie details, ratings, reviews and provides a movie search option
