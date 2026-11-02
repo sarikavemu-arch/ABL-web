@@ -277,12 +277,14 @@ book.style.display = "none";
 
 });
 }
-  RESULT :
-  
-Thus, the Digital Library Management Website was successfully designed using HTML, CSS Grid, tables, and JavaScript with book categories, search, filters, and availability labels.
-
-
+ 
 </script>
 
 </body>
 </html>
+
+RESULT :
+  
+Thus, the Digital Library Management Website was successfully designed using HTML, CSS Grid, tables, and JavaScript with book categories, search, filters, and availability labels.
+
+
