@@ -187,6 +187,9 @@ function searchMovie() {
 
 </body>
 </html>
+ 
+Output:
+A responsive movie website displaying movie details, posters, critic reviews and ratings.
 
  RESULT :
  
