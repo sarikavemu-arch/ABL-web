@@ -1,3 +1,26 @@
+Aim :
+
+To design and develop a Personal Portfolio Website using HTML and CSS to display personal details, education, technical skills, hobbies, projects, achievements and contact information.e
+
+Procedure :
+
+Open Visual Studio Code.
+
+Create a folder named Personal Portfolio.
+
+Create a file named index.html.
+
+Write HTML code to create portfolio sections.
+
+Use CSS to add colours, animations and styling.
+
+Add navigation links to move between sections.
+
+Run the program in a web browser.
+
+. Web Development Program :
+
+Create a file named index.html and copy this complete code.
 
 <!DOCTYPE html>
 <html>
@@ -135,4 +158,9 @@ footer {
 </footer>
 
 </body>
-</html>
+</html> 
+Result : 
+Thus, a responsive Personal Portfolio Website with navigation links, CSS animations, educational details, skills, hobbies, projects and contact information was developed successfully.
+
+
+
