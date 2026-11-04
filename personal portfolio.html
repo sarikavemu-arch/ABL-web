@@ -1,0 +1,167 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sarika Portfolio</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    background: #f0f4f8;
+    color: #333;
+}
+
+header {
+    background: #202b50;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    animation: slide 1s;
+}
+
+nav {
+    background: #34446d;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+section {
+    background: white;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 10px;
+    animation: fade 1.5s;
+}
+
+h2 {
+    color: #1146f6;
+    margin-bottom: 12px;
+}
+
+footer {
+    background: #202b50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+button {
+    background: #e7f523;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #0d55ef;
+}
+
+@keyframes fade {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes slide {
+    from {transform: translateY(-30px);}
+    to {transform: translateY(0);}
+}
+
+@media(max-width:600px) {
+    nav a {
+        display: block;
+        margin: 10px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Welcome to My Portfolio</h1>
+    <h2 style="color:white;">Sarika</h2>
+    <p>CSE - Artificial Intelligence and Machine Learning</p>
+</header>
+
+<nav>
+    <a href="#profile">Profile</a>
+    <a href="#education">Education</a>
+    <a href="#skills">Skills</a>
+    <a href="#hobbies">Hobbies</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="profile">
+    <h2>My Profile</h2>
+    <p>Hello! I am Sarika. I am a first-year B.Tech student
+    interested in learning new technologies and programming.</p>
+</section>
+
+<section id="education">
+    <h2>Educational Qualifications</h2>
+    <p>B.Tech - CSE (AIML)</p>
+    <p>College: NRI University</p>
+</section>
+
+<section id="skills">
+    <h2>Technical Skills</h2>
+    <p>HTML, CSS, Python, Basic Programming</p>
+</section>
+
+<section id="hobbies">
+    <h2>My Hobbies</h2>
+    <p>Listening to Music, Watching Movies,
+    Learning New Things</p>
+</section>
+
+<section id="projects">
+    <h2>My Projects</h2>
+    <p>1. Personal Portfolio Website</p>
+    <p>2. Student Information System</p>
+</section>
+
+<section id="achievements">
+    <h2>Achievements</h2>
+    <p>Learning Web Development and Python Programming.</p>
+</section>
+
+<section id="resume">
+    <h2>My Resume</h2>
+    <p>Resume details will be updated soon.</p>
+    <button onclick="alert('Resume will be updated soon!')">
+    View Resume
+    </button>
+</section>
+
+<section id="contact">
+    <h2>Contact Information</h2>
+    <p>Name: Sarika</p>
+    <p>Branch: CSE (AIML)</p>
+    <p>Email: sarika@example.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Sarika | Personal Portfolio</p>
+</footer>
+
+</body>
+</html>
