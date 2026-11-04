@@ -1,6 +1,6 @@
 Aim :
 
-To design and develop a Personal Portfolio Website using HTML and CSS to display personal details, education, technical skills, hobbies, projects, achievements and contact information.e
+To design and develop a Personal Portfolio Website using HTML and CSS to display personal details, education, technical skills, hobbies, projects, achievements and contact information.
 
 Procedure :
 
