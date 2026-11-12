@@ -5,7 +5,7 @@ To create a Movie Review and Rating Website using HTML, CSS and JavaScript. The 
 
  PROCEDURE :
  
-1. Open Visual Studio Code.
+1. Open Visual Studio Code'
 2. Create a new folder named Movie Website.
 3. Create a file named index.html.
 4. Write the HTML, CSS and JavaScript code.
