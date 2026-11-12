@@ -1,3 +1,5 @@
+AIM:
+To design and develop a responsive Trekking and Camping Adventures website using HTML, CSS, and JavaScript. The website displays trekking routes, camping trips, difficulty levels, trip schedules, equipment checklists, safety guidelines, and package prices.
 
 <!DOCTYPE html>
 <html>
