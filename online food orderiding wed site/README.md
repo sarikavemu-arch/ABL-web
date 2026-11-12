@@ -1,3 +1,5 @@
+AIM :
+To design and develop an Online Food Ordering Website using HTML. The website displays restaurant details, menu categories, food images, prices, special offers, customer reviews, and order buttons.:
 
 <!DOCTYPE html>
 <html>
